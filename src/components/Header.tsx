@@ -22,7 +22,7 @@ export const Header: React.FC = () => {
           <img src={logo} className="w-24 h-20" />{" "}
         </div>
         <h1 className="text-5xl sm:text-6xl font-bold bg-gradient-to-r from-red-400 to-red-600 bg-clip-text text-transparent">
-          DateSpot
+          DateSpotter
         </h1>
       </motion.div>
 
