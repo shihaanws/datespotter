@@ -1,4 +1,4 @@
-# DateSpot - AI-Powered Date Experience Discovery
+# DateSpotter - AI-Powered Date Experience Discovery
 
 A beautiful, modern web application that helps couples discover perfect date venues using AI-powered recommendations.
 
